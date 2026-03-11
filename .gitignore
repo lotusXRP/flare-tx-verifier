@@ -1,3 +1,4 @@
 /dist
 /dl
-/node_modules
+/node_modules__pycache__
+.env
