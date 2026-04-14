@@ -1,4 +1,3 @@
-
 # flare-tx-verifier
 
 This repository contains a command line interface tool for verification of transactions on Flare and Songbird networks, as well as on Coston and Coston2 test networks, prior to their signing.
